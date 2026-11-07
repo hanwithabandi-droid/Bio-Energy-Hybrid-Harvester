@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you reference this work or utilize the simulation model, please cite it as below."
+authors:
+  - name: "Bandi Hanwitha"
+  - name: "Somineni Rishi Nandhan"
+title: "Parallel Phase-Change Thermal Buffering for Biological Thermoelectric Energy Harvesting and Stuck-Fermentation Prevention"
+version: 1.0.0
+date-released: 2026-10-29
+url: "https://github.com/hanwithabandi-droid/Bio-Energy-Hybrid-Harvester"
+type: software
